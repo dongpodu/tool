@@ -11,6 +11,9 @@
     <modules>
         <module>guava</module>
         <module>hutool</module>
+        <module>commons</module>
+        <module>joda</module>
+        <module>jodd</module>
     </modules>
 
 </project>
