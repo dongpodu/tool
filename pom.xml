@@ -14,6 +14,7 @@
         <module>commons</module>
         <module>joda</module>
         <module>jodd</module>
+        <module>mytoole</module>
     </modules>
 
 </project>
